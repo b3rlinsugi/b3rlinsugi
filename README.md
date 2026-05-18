@@ -143,15 +143,15 @@ return $berlin;
 
 ## `$ cat certifications.txt`
 
-| Badge | Certification | Issuer | Year |
-|:---:|---|---|:---:|
-| ⭐ | **BNSP Junior Web Developer** — Cert No: `62019 2514 5 0019151 2025` | Badan Nasional Sertifikasi Profesi (BNSP) | 2025 |
-| 🎓 | Basic Web Application Development | Universitas Gunadarma | 2025 |
-| 🎓 | Basic Web Application Design | Universitas Gunadarma | 2024 |
-| 🗄️ | Oracle Database for Beginners | Universitas Gunadarma | 2023 |
-| 🐧 | Linux System Administration | Universitas Gunadarma | 2023 |
-| 🗄️ | Fundamental Database Management System | Universitas Gunadarma | 2022 |
-| 🖥️ | Fundamental Server Operating System | Universitas Gunadarma | 2022 |
+| Badge | Certification | Issuer | Year | Cert No |
+|:---:|---|---|:---:|---|
+| ⭐ | **BNSP Junior Web Developer** | Badan Nasional Sertifikasi Profesi (BNSP) | 2025 | `62019 2514 5 0019151 2025` |
+| 🎓 | Basic Web Application Development | Universitas Gunadarma | 2025 | — |
+| 🎓 | Basic Web Application Design | Universitas Gunadarma | 2024 | — |
+| 🗄️ | Oracle Database for Beginners | Universitas Gunadarma | 2023 | — |
+| 🐧 | Linux System Administration | Universitas Gunadarma | 2023 | — |
+| 🗄️ | Fundamental Database Management System | Universitas Gunadarma | 2022 | — |
+| 🖥️ | Fundamental Server Operating System | Universitas Gunadarma | 2022 | — |
 
 > **ℹ️ Note:** BNSP (Badan Nasional Sertifikasi Profesi) is Indonesia's national professional certification body — equivalent to industry licensure at the national level.
 
