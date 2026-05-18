@@ -92,10 +92,10 @@ return $berlin;
 
 <div align="center">
 
-[![student-management-api](https://github-readme-stats.vercel.app/api/pin/?username=B3rlinSugi&repo=student-management-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/student-management-api)
-[![tokoku-ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=B3rlinSugi&repo=tokoku-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/tokoku-ecommerce)
+[![student-management-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=student-management-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/student-management-api)
+[![tokoku-ecommerce](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=tokoku-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/tokoku-ecommerce)
 
-[![springboot-student-api](https://github-readme-stats.vercel.app/api/pin/?username=B3rlinSugi&repo=springboot-student-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/springboot-student-api)
+[![springboot-student-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=springboot-student-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E)](https://github.com/B3rlinSugi/springboot-student-api)
 
 </div>
 
@@ -122,10 +122,10 @@ return $berlin;
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3rlinSugi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B3rlinSugi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" alt="Top Languages" />
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=B3rlinSugi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
