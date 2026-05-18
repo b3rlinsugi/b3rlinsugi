@@ -1,0 +1,36 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"  # Daily at 00:30 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: B3rlinSugi
+          MAX_REPOS: 10
+          ANIMATE: true
+
+      - name: Commit and Push Output
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph [skip ci]"
+
+      - name: Push to profile-3d-contrib Branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: profile-3d-contrib
+          force: true
