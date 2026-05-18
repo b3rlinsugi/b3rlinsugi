@@ -184,7 +184,7 @@ return $berlin;
 
 <div align="center">
 
-![3D Contribution Graph](https://raw.githubusercontent.com/B3rlinSugi/B3rlinSugi/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/B3rlinSugi/B3rlinSugi/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
