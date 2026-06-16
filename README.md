@@ -1,106 +1,88 @@
 <div align="center">
 
-<!-- PREMIUM WAVY BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3040,100:00D9FF&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=00D9FF&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20API%20Architect%20%C2%B7%20System%20Performance&descAlignY=55&descSize=16&descColor=8B949E&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3040,100:00D9FF&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=00D9FF&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20API%20Architecture%20%C2%B7%20Database%20Design&descAlignY=55&descSize=16&descColor=8B949E&animation=fadeIn" />
 
-<!-- DYNAMIC TYPING -->
 <a href="https://berlinsugi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Architecting+High-Performance+APIs...;Designing+Scalable+Database+Schemas...;Building+Secure+Authentication+Systems...;BNSP+Certified+Junior+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Building+reliable+backend+systems...;Focusing+on+APIs+%26+Auth+Systems...;Prioritizing+performance+%26+reliability...;BNSP+Certified+Junior+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=B3rlinSugi&label=Profile%20Views&color=00d4ff&style=for-the-badge&logo=github" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=B3rlinSugi&label=Profile%20Views&color=00d4ff&style=flat-square&logo=github" alt="Views" />
   <a href="https://linkedin.com/in/berlinsugi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:berlinsugiyanto23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://berlinsugi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<!-- GITHUB TROPHIES -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=B3rlinSugi&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="B3rlinSugi Trophies" />
-</a>
-
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in robust backend architecture, scalable REST APIs, and high-performance database design. With a foundation in Informatics Engineering and a national **BNSP Certification**, I am passionate about writing clean, maintainable, and secure code that solves real-world business logic.
+**I'm Berlin — a backend developer and Informatics graduate from Gunadarma University.** 
+I design and build REST APIs, authentication systems, and database architectures that are secure, scalable, and structured for production. I believe that great engineering deserves great design.
 
-While my core strength lies in server-side technologies (PHP, Java, Node.js), I also architect modern full-stack systems using Next.js 15, Edge computing, and state-of-the-art frontend tooling.
-
-- 🎯 **Current Focus**: Microservices Architecture, JWT/RBAC Security flows, and Server-Side Rendering optimizations.
-- 💼 **Open To**: Junior Software Engineer, Backend Developer, or Full-Stack Engineer roles (Remote / Jabodetabek).
-
----
-
-## 🛠️ Technological Arsenal
-
-<div align="center">
-
-| Core Languages | Frameworks & Stacks | Databases & Cloud | Architecture & DevOps |
-|:---:|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"/> | <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=react&logoColor=white" width="100"/> | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100"/> | <img src="https://img.shields.io/badge/-REST_API-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-JWT_Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100"/><br><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="100"/> |
-
-</div>
+- 🎯 **Current Focus**: Building reliable backend systems for real-world use.
+- 🎓 **Education & Certification**: S1 Informatics Engineering & BNSP Certified Junior Web Developer (2025).
 
 ---
 
-## 🚀 Engineering Showcase
+## 🛠️ Tech Stack
 
-> **"Code is read much more often than it is written."** I prioritize readability, scalability, and performance in every line of code I ship.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/B3rlinSugi/hl-finance-app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=hl-finance-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E" width="48%" />
-  </a>
-  <a href="https://github.com/B3rlinSugi/prime-property">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=prime-property&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E" width="48%" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/B3rlinSugi/student-management-api">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=student-management-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E" width="48%" />
-  </a>
-  <a href="https://github.com/B3rlinSugi/tokoku-ecommerce">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=B3rlinSugi&repo=tokoku-ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E" width="48%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
 
-### 🔬 Technical Deep-Dive
+---
 
-| Architecture / System | Engineering Impact & Core Technologies | Role |
+## 🚀 Projects
+
+| Project | Description & Features | Tech Stack |
 |---|---|---|
-| **[HL Finance Management](https://github.com/B3rlinSugi/hl-finance-app)** | Architected an **Edge-authenticated proxy** using Next.js 15 and Supabase. Implemented **Server-Side Pagination** and a tier-based customer system, wrapped in an elegant Glassmorphism UI driven by Zustand & Framer Motion. | Full-Stack |
-| **[Student Management API](https://github.com/B3rlinSugi/student-management-api)** | Built a production-ready **REST API** with Laravel 11. Designed strict **Multi-role RBAC**, JWT token rotation mechanisms, and advanced PostgreSQL filtering algorithms. | Backend |
-| **[Prime Property](https://github.com/B3rlinSugi/prime-property)** | Engineered a dynamic property search engine leveraging **NextAuth.js security**. Managed complex interactive map states and seamless scroll animations for premium UX. | Full-Stack |
-| **[Tokoku E-Commerce](https://github.com/B3rlinSugi/tokoku-ecommerce)** | Structured a normalized **10-Table Relational Schema** in MySQL. Developed a custom voucher discount engine and real-time stock auditing system from scratch using PHP 8. | Backend |
+| **[HL Finance Management](https://github.com/B3rlinSugi/hl-finance-app)** | A modern Sales & Receivables Management platform featuring an elegant Glassmorphism UI and robust real-time analytics. Built on Next.js 15+ and Supabase.<br><br>**Features:** Edge Authentication Proxy, Tier-based Customer System, Real-time Analytics Dashboard, Server-Side Pagination. | Next.js, Supabase, TypeScript, Tailwind CSS, Zustand |
+| **[Prime Property](https://github.com/B3rlinSugi/prime-property)** | A modern full-stack property platform designed to provide a seamless property search experience. Features dynamic search and filtering, along with an elegant, responsive UI.<br><br>**Features:** Property Listings & Filtering, Secure NextAuth Authentication, Premium Scroll Animations. | TypeScript, Next.js, PostgreSQL, Prisma ORM, Auth.js |
+| **[Tokoku E-Commerce](https://github.com/B3rlinSugi/tokoku-ecommerce)** | A comprehensive backend-first e-commerce web application built from scratch using PHP Native (MVC) and MySQL. Handles the entire user shopping lifecycle.<br><br>**Features:** 10-Table Relational Database, Voucher Discount Engine, RBAC Authentication (bcrypt), Real-time Stock Tracking. | PHP 8, MySQL 8, Bootstrap 5, PDO, bcrypt |
+| **[Student Management API](https://github.com/B3rlinSugi/student-management-api)** | A production-grade RESTful API for student data management, developed using the Laravel framework. Highlights high-level security with JWT and strict RBAC.<br><br>**Features:** Secure JWT Authentication, Role-Based Access Control, Soft Deletion Mechanism, RESTful Architecture. | Laravel, PHP, MySQL, JWT |
+| **[Spring Boot Student API](https://github.com/B3rlinSugi/springboot-student-api)** | A centralized backend API service for managing academic entities, built within the Java Spring Boot ecosystem. Utilizes JPA/Hibernate for advanced ORM.<br><br>**Features:** Enterprise-grade Architecture, REST API Endpoints, JPA/Hibernate ORM. | Java, Spring Boot, Hibernate |
+| **[CRUD Akademik](https://github.com/B3rlinSugi/crud-akademik)** | An interactive academic data management system with multi-role access (Admin & Staff). Focuses on robust database integrity using foreign key constraints and PDO.<br><br>**Features:** Multi-role System (RBAC), Database Integrity, PDF Report Generation. | PHP 8, MySQL 8, Bootstrap 5, TCPDF/FPDF |
+| **[Cash Flow](https://github.com/B3rlinSugi/cash-flow)** | A robust financial tracking application upgraded from legacy code, focusing on security migration (MD5 to bcrypt) and schema redesign. Supports dual databases.<br><br>**Features:** MD5 to Bcrypt Migration, Dual Database Support, Interactive Analytics Dashboard. | PHP 8, PostgreSQL, MySQL, bcrypt |
 
 ---
 
-## 📈 Impact Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=B3rlinSugi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-### 🐍 Contribution Activity Matrix
 
 <div align="center">
 <picture>
